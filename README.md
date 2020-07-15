@@ -12,7 +12,7 @@ Projeto "Site Pessoal" desenvolvido para a disciplina Programação Web na Etec 
 ```
 *Html
 *Css
-*Java script
+*Javascript
 *Bootstrap
 *Php
 *MySql
