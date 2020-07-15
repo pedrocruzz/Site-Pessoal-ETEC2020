@@ -1,0 +1,141 @@
+/*Body*/
+.display-4{
+  color: #FF1493;
+}
+
+.icons{
+height: 25px;
+padding: 0 10px;
+}
+
+.container {
+max-width: 960px;
+}
+
+/*NavBar*/
+.navbar{
+    height: 60px;
+    width: 82%;
+    margin: 0 auto;
+}
+.menuItem{
+    margin: 5px;
+    font-size: 18px;
+}
+
+.logoItem{
+  margin: 5px;
+  font-size: 18px;
+  color: #FF1493;
+}
+
+/*Sobre*/
+  .lead{
+    color: #5F5F5F;
+}
+.jumbotron1{
+  padding: 10% 15%;
+  background-color: #fff;
+
+}
+.itemright{
+  padding: 110px 400px 0 0;
+  height: 350px;
+}
+
+.itemright{
+  padding: 110px 400px 0 0;
+  height: 350px;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #FF1493;
+  border-color: #FF1493;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #c7046c;
+  border-color: #c7046c;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  color: #fff;
+  background-color: #FF1493;
+  border-color: #FF1493;
+  box-shadow: 0 0 0 0.2rem #91004d;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+  color: #fff;
+  background-color: #FF1493;
+  border-color: #FF1493;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #FF1493;
+  border-color: #FF1493;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem #91004d;
+}
+
+/*Fotos*/
+#image6{
+  height: 100%;
+}
+
+.jumbotron3{
+  background-color:#2D0140;;
+}
+
+
+.display-5 {
+  font-size: 35px;
+  color: #FF1493;
+}
+
+.card{
+  background: #2D0140;
+}
+
+/*Stream*/
+.stream{
+  padding-right: 100px;
+}
+
+.jumbotron4{
+  padding: 50px;
+}
+
+.itemStream{
+  color: #5F5F5F;
+}
+
+/*Musicas*/
+.ifspotify{
+  padding: 0 1% 0;
+}
+
+.spotify{
+  padding-left: 5%;
+}
+
+.jumbotron {
+  background-color: #2D0140;
+}
+
+
+/*Comentarios*/
+.block{
+  width: 100%;
+}
+
+/*Footer*/
+.smallfooter{
+  color: #140126;
+}
+
